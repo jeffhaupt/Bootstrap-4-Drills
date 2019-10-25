@@ -17,7 +17,7 @@
 5. Insert a div inside of the existing container div. Give this div a class name of row, then insert an h1 element inside of the row div. Have the text read “First Boostrap Project”.
 6. Refer to this link on the grid system to learn how rows and alignment work using bootstrap.
 7. Lets try to center align our h1! Go to the previous link to explore how to do so.
-  * Hint: Jump to the horizontal alignment section of bootstraps documents
+   * Hint: Jump to the horizontal alignment section of bootstraps documents
 8. Add a new div with class row beneath the other row div, this will be another "section" row of elements. Add 3 divs within the row, give each some text of your choice and apply bootstrap styling to have 1 div appear at the start of the row, one in the center, and one at the end.
 
 ## Bootstrap Forms
@@ -31,17 +31,17 @@
 8. Your page should like somewhat close to this, with your text being different.
 9. Add a col class of size 12 to your form element.
 10. Add a border of color primary to your form element.
-  * Hint: Use Bootstrap classes!
+   * Hint: Use Bootstrap classes!
 11. Add a padding of 3 to your form using Bootstrap utilities.
 12. After some styling, your form should resemble something like this masterpiece.
 
 ## Cards
-Refer to this link for more information on cards.
-Beneath the previous row div, but inside the container, create a another row div.
-Within the new row, create a basic card with a card body and have it have an h3 which will be a friends name, and a paragraph element containing a small piece of info on your friend. Create 6 of these cards.
-Your cards should be stacked vertically and only be as wide as the amount of text in your paragraph, something like this.
-Have them align so there are 2 per row.
-Hint: Use Bootstrap's col system to make the cards 2 per row.
-It should look like this example.
-Once you get them aligning 2 per row, change it so it is 3 per row.
-Like this example.
+1. Refer to this link for more information on cards.
+2. Beneath the previous row div, but inside the container, create a another row div.
+3. Within the new row, create a basic card with a card body and have it have an h3 which will be a friends name, and a paragraph element containing a small piece of info on your friend. Create 6 of these cards.
+   * Your cards should be stacked vertically and only be as wide as the amount of text in your paragraph, something like this.
+4. Have them align so there are 2 per row.
+   * Hint: Use Bootstrap's col system to make the cards 2 per row.
+   * It should look like this example.
+5.  Once you get them aligning 2 per row, change it so it is 3 per row.
+   * Like this example.
