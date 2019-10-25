@@ -1,0 +1,8 @@
+/* .container-fluid {
+  background-color: skyblue;
+  height: 500px;
+} */
+
+.col {
+  border: 1px solid #cdcdcd;
+}
